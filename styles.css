@@ -93,7 +93,8 @@ body.dark-mode {
 }
 .dark-toggle {
   position: fixed;
-  
+  top: 80px;
+  left: 10px;
   padding: 8px 16px;
   background-color: #eee;
   color: #333;
